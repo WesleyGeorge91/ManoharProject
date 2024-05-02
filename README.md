@@ -1,2 +1,2 @@
-# ManoharProject
+# ManoharRepository
 Manohar AWS Project
